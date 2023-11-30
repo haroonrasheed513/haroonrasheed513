@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haroonrasheed513
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning coding and data science 
-- 💞️ I’m looking to collaborate on above subject based projects and internships
-- 📫 How to reach!! me u can just mail me......
+- 🌱 I’m a Full Stack Web Developer.
+- 💞️ I’m looking to collaborate on above subject based projects, internships, Full time Jobs.
+- 📫 How to reach me! u can just mail me......
 
 <!---
 haroonrasheed513/haroonrasheed513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
